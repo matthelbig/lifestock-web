@@ -44,7 +44,7 @@ section.dark {
   right: 0;
   bottom: 0;
   background-color: #3d4451;
-  background-image: url("/img/camp-hero.jpg");
+  background-image: url("img/lifestock-hero.jpg");
   background-size: cover;
   background-position: center;
 }
