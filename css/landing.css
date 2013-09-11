@@ -37,7 +37,6 @@ section.dark {
 }
 /* line 48, ../scss/landing.scss */
 #landing-hero div.image-wrapper {
-  display: none;
   position: absolute;
   top: 0;
   left: 0;
@@ -451,7 +450,7 @@ div.social-links img.color {
 
 /* line 463, ../scss/landing.scss */
 section.contact {
-  padding: 300px 0;
+  padding: 100px 0;
 }
 /* line 465, ../scss/landing.scss */
 section.contact p {
