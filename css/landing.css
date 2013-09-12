@@ -37,14 +37,13 @@ section.dark {
 }
 /* line 48, ../scss/landing.scss */
 #landing-hero div.image-wrapper {
-  display: none;
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
   background-color: #3d4451;
-  background-image: url("/img/camp-hero.jpg");
+  background-image: url("img/lifestock-hero.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -451,7 +450,7 @@ div.social-links img.color {
 
 /* line 463, ../scss/landing.scss */
 section.contact {
-  padding: 300px 0;
+  padding: 100px 0;
 }
 /* line 465, ../scss/landing.scss */
 section.contact p {
